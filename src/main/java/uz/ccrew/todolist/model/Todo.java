@@ -2,7 +2,6 @@ package uz.ccrew.todolist.model;
 
 import jakarta.persistence.*;
 
-
 @Entity
 @Table(name = "todos")
 public class Todo {
