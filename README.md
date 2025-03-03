@@ -22,3 +22,17 @@ This is a simple RESTful API for managing a Todo list built with Spring Boot, Hi
 
    ```bash
    git clone https://github.com/your-username/todo-app.git
+   
+## Questions
+1. Was it easy to complete the task using AI?
+- Yes it was easy. 
+2. How long did task take you to complete?
+- It take me about 1-1.5 hours
+3. Was the code ready to run after generation?
+- Yes
+4. What did you have to change to make it usable?
+- I just had to change the directories where the files were located and that is it!
+5. Which challenges did you face during completion of the task?
+- No, challenges at all)
+6. Which specific prompts you learned as a good practice to complete the task?
+- To be honest I do not know, I just make prompts structural and easy to understand.
